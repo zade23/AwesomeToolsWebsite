@@ -6,7 +6,7 @@
 
 - 算法
   - 【开源算法库Algorithms】[The Algorithms](https://the-algorithms.com/)
-  - 
+  - 【在线体验-图像分割算法Meta-SegementAnything】[Segment Anything](https://segment-anything.com/demo)
 
 - 汇编语言
   - Python
