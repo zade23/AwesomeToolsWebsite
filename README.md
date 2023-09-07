@@ -58,7 +58,7 @@
   - 【Figma在线版】[Figma](https://www.figma.com/files/recents-and-sharing/recently-viewed)
 
 - 下载工具
-  - 【微博、Bilibili视频图片解析下载 】[weibo.iiilab.com](https://weibo.iiilab.com/)
+  - 【YouTube视频解析下载 】[snapsave.io](https://snapsave.io/zh-tw18)
 
 
 - 格式压缩
