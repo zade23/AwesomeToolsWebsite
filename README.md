@@ -57,5 +57,9 @@
   - 【AI漫画|可选择漫画风格和页面布局】[AI Comic Factory - a Hugging Face Space by jbilcke-hf](https://huggingface.co/spaces/jbilcke-hf/ai-comic-factory)
   - 【Figma在线版】[Figma](https://www.figma.com/files/recents-and-sharing/recently-viewed)
 
+- 下载工具
+  - 【微博、Bilibili视频图片解析下载 】[weibo.iiilab.com](https://weibo.iiilab.com/)
+
+
 - 格式压缩
   - 【图片压缩软件】[Topspeed Image Compressor 在线压缩](https://www.ticompressor.com/online/)
