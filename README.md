@@ -72,6 +72,7 @@
 - 在线API
   - 【收集各种 AI 工具和资源】[AIHub](https://www.aihub.cn/)
   - 【免费AI API列表】[free-ai-apis](http://github.com/NovaOSS/free-ai-apis)
+  - 【作文批改：使用GPT4对雅思托福作文判分和批改】[https://www.essay.art/](https://www.essay.art/)
 
 - 音频处理
   - 【Whisper:英语音频转成文本的在线工具】[Whisper Web](https://huggingface.co/spaces/Xenova/whisper-web)
