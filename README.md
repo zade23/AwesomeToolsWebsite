@@ -128,7 +128,7 @@
 #### 下载工具
 
 - 【YouTube视频解析下载 1 】[snapsave.io](https://snapsave.io/zh-tw18)
-- 【YouTube视频解析下载 2 】[https://youtubemultidownloader.net/]
+- 【YouTube视频解析下载 2 】https://youtubemultidownloader.net/
 - 【bilibili视频下载】[bili.iiilab](https://bili.iiilab.com/)
 
 #### 格式压缩
