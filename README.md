@@ -97,7 +97,9 @@
 - 【收集各种 AI 工具和资源】[AIHub](https://www.aihub.cn/)
 - 【免费AI API列表】[free-ai-apis](http://github.com/NovaOSS/free-ai-apis)
 - 【作文批改：使用GPT4对雅思托福作文判分和批改】[https://www.essay.art/](https://www.essay.art/)
-- 【在线EPUB格式阅读器】[flowoss](https://app.flowoss.com/zh-CN)
+- 【在线EPUB格式阅读器】
+  - [flowoss](https://app.flowoss.com/zh-CN)
+  - [epub-reader](https://epub-reader.online/)
 
 #### 数据集
 
