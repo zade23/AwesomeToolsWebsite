@@ -100,6 +100,7 @@
 - 【在线EPUB格式阅读器】
   - [flowoss](https://app.flowoss.com/zh-CN)
   - [epub-reader](https://epub-reader.online/)
+- [傲软-在线剪裁视频](https://www.apowersoft.cn/trim-video-online)
 
 #### 数据集
 
